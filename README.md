@@ -1,2 +1,2 @@
 # tours
-[https://tours-2022.netlify.app]
+[Demo](https://tours-2022.netlify.app)
